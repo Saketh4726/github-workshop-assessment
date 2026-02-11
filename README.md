@@ -12,8 +12,4 @@ This repository is created for GitHub workshop practice.
 ## Folder Structure
 - README.md
 - intro.txt
-<<<<<<< HEAD
-Workshop Date: February 2026
-=======
-Workshop Date: February 2026 - Edited in Branch  B
->>>>>>> branch-b
+Workshop Date: February 2026 - Edited in Branch A & B
